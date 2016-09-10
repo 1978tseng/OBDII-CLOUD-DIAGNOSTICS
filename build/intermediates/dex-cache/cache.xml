@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Chun-Wei Tseng\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb\2.2.13\c5e29c073cc8539c409c6ef39201f979031de0c1\aws-android-sdk-ddb-2.2.13.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5e29c073cc8539c409c6ef39201f979031de0c1">
+        <dex dex="C:\Users\Chun-Wei Tseng\Desktop\CUE\android-BluetoothChat-master\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\aws-android-sdk-ddb-2.2.13-e266796e865d95b7f4950b7794bb5f4ad8909095.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Chun-Wei Tseng\Desktop\CUE\android-BluetoothChat-master\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-24c46cbde714be0842274322039416f341dd73a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chun-Wei Tseng\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognito\2.2.13\251ebccacaad6a5036952dc6b259a2aabba38356\aws-android-sdk-cognito-2.2.13.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="251ebccacaad6a5036952dc6b259a2aabba38356">
+        <dex dex="C:\Users\Chun-Wei Tseng\Desktop\CUE\android-BluetoothChat-master\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\aws-android-sdk-cognito-2.2.13-0ceccc181f5dc7320dbcc39f7e2458ccb41c70d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chun-Wei Tseng\Desktop\CUE\android-BluetoothChat-master\android-BluetoothChat-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Chun-Wei Tseng\Desktop\CUE\android-BluetoothChat-master\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\classes-88558822cc98e77c59cb7b6691e3d75922937f8b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chun-Wei Tseng\Desktop\CUE\android-BluetoothChat-master\android-BluetoothChat-master\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="C:\Users\Chun-Wei Tseng\Desktop\CUE\android-BluetoothChat-master\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\classes-40a582770f6669ad765c6b9d41ee9350bfa970fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chun-Wei Tseng\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.2.13\bcb160fb9cb637c7908e77d473cdbdabdd80e2b9\aws-android-sdk-core-2.2.13.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bcb160fb9cb637c7908e77d473cdbdabdd80e2b9">
+        <dex dex="C:\Users\Chun-Wei Tseng\Desktop\CUE\android-BluetoothChat-master\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\aws-android-sdk-core-2.2.13-cf172766d7214e01fe12872b3e11074852edba6e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chun-Wei Tseng\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-s3\2.2.13\1b15445de91b048a6b74506dd8261daf74decdcd\aws-android-sdk-s3-2.2.13.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b15445de91b048a6b74506dd8261daf74decdcd">
+        <dex dex="C:\Users\Chun-Wei Tseng\Desktop\CUE\android-BluetoothChat-master\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\aws-android-sdk-s3-2.2.13-ae5cd05e35a4282642715e4d17f1f23f7cc3db31.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chun-Wei Tseng\Desktop\CUE\android-BluetoothChat-master\android-BluetoothChat-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Chun-Wei Tseng\Desktop\CUE\android-BluetoothChat-master\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-aabf16f463db0adc20b69283233eac4d962eaa16.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chun-Wei Tseng\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\Chun-Wei Tseng\Desktop\CUE\android-BluetoothChat-master\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\gson-2.2.4-fa6ba7fa1a3a9d713d44c456e92502c1d9f05d0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chun-Wei Tseng\Desktop\CUE\android-BluetoothChat-master\android-BluetoothChat-master\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3713f30726299231eddfb206043ebb72a2519b6f">
+        <dex dex="C:\Users\Chun-Wei Tseng\Desktop\CUE\android-BluetoothChat-master\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\classes-df69a58a36d6707fc59114fa7fd867edcbafe6b9.jar" />
+    </item>
+
+</items>
