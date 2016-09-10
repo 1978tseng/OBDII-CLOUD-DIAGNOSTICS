@@ -1,10 +1,8 @@
-Primary Purpose
+PRIMARY PURPOSE
+
 The potential benefits for this sort of system are numerous. End users could simply plug a simple adapter into their vehicle and instead of having to taking their malfunctioning vehicle to a service shop, they could get a diagnosis or information about the problem right there in their driveway or garage. Another advantage is that a service shop can also perform vehicle diagnostics using this cloud based data.  Continuous vehicle monitoring and uploading to the cloud allows for other possibilities. A driver could be alerted to a possible pending issue within their vehicle even before an error indication light comes on. Continuous vehicle monitoring coupled with time stamped data logging allows for more in depth diagnostics to be done. Someone examining the time stamped logs could see all the OBD-II data about a vehicle dating back as long as there are logs, using this information to better diagnose a complex issue within the vehicle.
 
 This project is important because it makes ideas like the ones mentioned above a reality, it is a step forward in creating a more wireless and automated world. It can make a common commuter vehicle another component of the ever growing internet of things (IoT), connecting the vehicle’s OBD-II systems to our smart phones, laptops, portable vehicle diagnostic tools, computers at home, or elsewhere. 
-
-	            
-Overview
 
 SYSTEM VALIDATION
 Validation answers the question as to whether the system performs the right functions. For this project, the system is considered validated if a user cannot realize whether the OBD diagnostics is being performed on an actual vehicle or on the cloud based data of the same vehicle. Another aspect of the validation is to ensure that the system performs better (e.g., is able to diagnose more complex scenarios) than a typical diagnostics using a standard OBD scan tool.
@@ -26,3 +24,7 @@ Not only is the data collection of this project accurate, because of this log th
 
 RECOMMENDATIONS
 The project while success, could be more robust. Finding a vehicle that could be tested on proved difficult, and more tests on varying models of vehicles could prove beneficial to further research in this area. The complexity of the faults created could be greater, with a mechanic available to assess whether or not the historical information provided by the OBD Diagnostic engine assisted in their diagnostic capability.
+
+NOTE:
+Most of the system is developed by extending and implementing the android bluetooth tutorial
+https://developer.android.com/guide/topics/connectivity/bluetooth.html
